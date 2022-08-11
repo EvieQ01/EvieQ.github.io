@@ -7,8 +7,8 @@ redirect_from:
   - /life
 ---
 ## Student Union:
-* Serve as a stage director in 2021.
-* Serve as a hostress in 2022.
+* Served as a stage director in 2021.
+* Served as a hostress in 2022.
 
 > 2021's Students Festival of Department of Automation
 
@@ -27,12 +27,14 @@ redirect_from:
 * Competed in John Ma Cup badminton competitions of female-doubles and mixed-doubles and won championship for the Department of Automation in 2021.
 * Joined karate team, competed in John Ma Cup competition and got top-8 awards in individual and team events in 2020.
 
+---
 
-##  A memoir for the second semester of my junior year🤣
+
+##  A memoir for the 2nd semester of my junior year🤣
 
 > ## Intro…
 
-> * An important people came into my life.🥳
+> * An important person came into my life.🥳
 > * Spending two days with Annie makes me understand myself more. Be relax and just be myself.🤩
 
 ### 1. Research
@@ -41,18 +43,18 @@ redirect_from:
 
 * Hybrid Dynamics-aware Offline-and-Online Reinforcement Learning --- with Haoyi, Prof. Zhan.
 
-Pleading...
+* Pleading...
 
 ### 2. Person I met
 
 > I never regret for participating in these.
 
 * Haoyi, Jianxiong, Zhe, ..., and Mr. Zhan
-  They give me precious joyful moments in all the stress. I see passion and warmths, and I begin to believe that that's what scientific research can also be like. :) To gain some confidence in the fields we study, and feeling proud as well as humble for making though a little contribution, but as much as we could within our capability.
+  They give me precious joyful moments in all the stress. I see passion and warmths, and I begin to believe that that's what scientific research can also be like. :) To gain some confidence in the fields we study, and feeling proud as well as humble for making a little contribution, no matter how little, but still as much as we could do within our capability.
 
 * Prof. Ma, Prof. Jiang, and Shengquan.
 
-  Thanks to them to give me a chance to get to know compu-Bio. Gap between solving real-world problems and developing better algorithms is HUGE. Hope to dig deeper in the latter field, so that one day I would know how to deal with the first. It is to think more orinially about science. :)
+  Thanks to them to give me a chance to get to know compu-Bio. Gap between solving real-world problems and developing better algorithms is HUGE. Hope to dig deeper in the latter field, so that one day I would know how to deal with the first. It is about thinking more orinially about science. :)
 
 * Mr. Shang
 
@@ -60,7 +62,7 @@ Pleading...
 
 * Jialong
 
-  Maybe the person I spent most time with and who always urged me about the research and scolded me the most. Haha. Always chasing high efficiency and quality. This is another way of life that I admire --- pure love for truth and stability. 
+  Maybe he is the person I spent most time with and who always urged me about the research and scolded me the most, who always chase high efficiency and quality. This is another way of life that I admire --- pure love for truth and stability /peace. 
 
 ### 3. Life Pieces.
 
@@ -72,8 +74,9 @@ Pleading...
 > Things I want to say at the end.
 > **Thinking about the present. Live at the present. Don't care about the result.**
 
+---
 
-## A memoir for the first semester of my junior year🤣
+## A memoir for the 1st semester of my junior year🤣
 
 > ## Intro…
 
@@ -90,7 +93,7 @@ Pleading...
 
 
 
-It was a pity that none of these methods work out. But that's not the most important thing. The most important thing is what I learn in the process -- how to get hands dirty and get things done. If one way doesn't work out, find another. Repeat it for 1,000 times.
+It was a pity that none of these methods worked out. But that's not the most important thing. The most important thing is what I learned in the process -- how to get hands dirty and get things done. If one way doesn't work out, find another. Repeat it for 1,000 times.
 
 
 
@@ -99,6 +102,7 @@ It was a pity that none of these methods work out. But that's not the most impor
 > I'm Grateful that I can get to know them.
 
 * Mrs. Wang
+  
   She’s the one who can actually look through me, and offer me advice that I needed the most.
   When she asked, *what kind of person you want to become*? I stumbled,  hearing my self saying I don’t know. But she spoke, ‘You do know, ... You want to be an interesting one:: ’
 
@@ -108,7 +112,7 @@ It was a pity that none of these methods work out. But that's not the most impor
 
 * Mr. Long
 
-  He is the one who shows the passion for scientific research. And that it's not conflict with the short-term goal we target at. Just aim high and work hard. 🤟🏼✊🏼
+  He is the one who shows me the passion for scientific research. And that it's not conflict with the short-term goal we target at. Just aim high and work hard. 🤟🏼✊🏼
 
   
 
@@ -117,9 +121,9 @@ It was a pity that none of these methods work out. But that's not the most impor
 
 ### 3. Life Pieces.
 
-* Standing on the stage of the students festival.
-* Launch Project P2P, as mysterious JQK, bring company to juniors.
-* Meeting and making interviews with the experienced --- Xuehui Wang, Yu wang, ...
+* Stood on the stage of the students festival.
+* Launched Project P2P, as mysterious JQK, bring company to the young.
+* Met and made interviews with the experienced --- Xuehui Wang, Yu wang, ...
 
 > Things I want to say at the end.
 > Ask myself, ***what do I want, and how do I get there?***
