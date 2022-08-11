@@ -104,7 +104,7 @@ It was a pity that none of these methods worked out. But that's not the most imp
 * Mrs. Wang
   
   She’s the one who can actually look through me, and offer me advice that I needed the most.
-  When she asked, *what kind of person you want to become*? I stumbled,  hearing my self saying I don’t know. But she spoke, ‘You do know, ... You want to be an interesting one:: ’
+  When she asked, *what kind of person you want to become*? I stumbled,  hearing my self saying I don’t know. But she spoke, ‘You do know, ... You want to be an interesting one. ’
 
 * Mr. Fan
 
