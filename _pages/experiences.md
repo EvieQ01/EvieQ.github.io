@@ -35,7 +35,7 @@ My research experiences are listed as follows.
 * Conducted experiments with PyTorch and achieved improved performance on Office31, OfficeHome settings. (1~2% in accuracy, 8% in h-score) by utilizing a meta-learning method, intended to consider harder circumstances like long-tail distribution in real-world settings.
 
 
-#### 4. Modular Networks for Domain Generalization |    Nov 2021-Jan 2022
+## 4. Modular Networks for Domain Generalization |    Nov 2021-Jan 2022
 > Advisor: Mingsheng Long, Tsinghua University
 
 * To enhance the models’ performance in unseen domain, design a modularized structure in deep neural networks to selectively produce knowledge in a more flexible way.
@@ -44,7 +44,7 @@ My research experiences are listed as follows.
 
 ## What's more... Other interesting things I did in course projects.:)
 
-### Scenic spot guide based on Unitree Robotics A1 |   July 2021
+### 5. Scenic spot guide based on Unitree Robotics A1 |   July 2021
 > Special Operations Team, Tsinghua University
 
 
@@ -52,7 +52,7 @@ My research experiences are listed as follows.
   
 * Integrated the system into a voice-conduct comprehensive product which could serve the purpose of a scenic spot guide.
 
-### Thunder-Classroom Application Development |          April 2020-June 2020
+### 6. Thunder-Classroom Application Development |          April 2020-June 2020
 
 > Advisor: Jingtao Fan, Associate Professor, Laboratory of Brain and Cognitive Sciences, Department of Automation
 
@@ -60,7 +60,7 @@ My research experiences are listed as follows.
 
 * Realized functions with GUI interface include: screen sharing, voice sharing, question attributing, etc. by C++ programming. Successfully used its release version to finish the project oral defense.
 
-### Video Desnowing with Speed and Effectiveness | High-tech Winter Olympics , July 2021-Aug 2021
+### 7. Video Desnowing with Speed and Effectiveness | High-tech Winter Olympics , July 2021-Aug 2021
 > Advisor: Jianming Hu, Associate Professor, Institute of systems engineering, Department of Automation
 
 * Focused on problems encountered when applying current vehicle recognition algorithms to real-life circumstances due to bad weather. Researched on traditional (dark channel; etc.) as well as deep learning methods (DesnowNet; etc.), which cannot promise speed and effectiveness at the same time.
