@@ -11,37 +11,48 @@ redirect_from:
 
 
 My research experiences are listed as follows.
-## 1. Out-of-Dynamics (OOD) Imitation Learning from Transferable Demonstrations | March 2022 - now
+## 1. Out-of-Dynamics (OOD) Imitation Learning from Multimodal Demonstrations | March 2022 - now
 > Advisor: Mingsheng Long, Tsinghua University
 
-* Develop a tranferability measurement to down-weight non-transferable demonstrations for OOD imitation learning which enables robot to learn form data collected in different dynamics.
+* Studied out-of-dynamics imitation learning (OOD-IL): the assumption in Imitation Learning(IL) is that the demonstrator who collects demonstrations share the same dynamics as the imitator limits the usage of IL. Aimed at enabling a wider usage of a mixture of mutimodal demonstrations in IL.
 
-* Develop a novel sequence-based contrastive clustering algorithm to tackle the multimodal distribution in demonstrations to enhance the above adversarial training algorithm, and our final result outperforms all baselines.
+* Developed a novel sequence-based contrastive clustering algorithm to tackle the multimodal distribution problem in demonstrations collected under multiple sources and mitigated their negative mutual influence.
 
 
-## 2. Dynamics-Aware Offline-and-Online                    Reinforcement Learning  |   Feb 2022 - April 2022
+* Developed an adversarial-based transferability measurement to down-weight non-transferable demonstrations for OOD-IL which enables agents to learn from a mixture of source data under different dynamics.
+
+* Conducted experiments on 3 MuJoCo environments, a driving and a simulated robot environment, showing that the proposed approach outperforms prior works on final IL performance by 100 ~ 300%.
+
+## 2. Dynamics-Aware Offline-and-Online        Reinforcement Learning  |   Feb 2022 - April 2022
 > Advisor: Xianyuan Zhan, Institute for AI Industry Research, Tsinghua University
 
-* Propose the H2O framework to provide an affirmative answer to the question about how to integrate limited real data in offline RL and unrestricted exploration through imperfect simulators.
 
-* By adaptively penalizes the Q-function learning on simulated state-action pairs with large dynamics gaps (through adversarial training), our result beats baselines in both simulation and real-world settings.
+* Combined learning from limited real data in offline RL and unrestricted exploration of imperfect simulators in online RL, which is a novel scenario.
+  
+* Proposed the Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning(H2O) framework, theoretically proved it can allow learning with high-fidelity from both offline-dataset and online-exploration. 
 
+* Designed a practical implementation with PyTorch through an adversarial training process, adaptively penalizing the learning on simulated state-action pairs with large dynamics gaps.
+
+* Conducted experiments in 4 datasets of MuJoCo each with 3 unreal dynamics (Gravity / Friction / Joint-Noise) and a real wheel-legged robot, and achieved results beat all existing baselines.
 
 ## 3. Universal Domain Adaptation with Meta-learning | Aug 2021-Dec 2022
 > Advisor: Mingsheng Long, Tsinghua University
 
-* Aimed to eliminate the category gap on source and target domains in Domain Adaptation tasks by identifying outlier samples without the need for prior knowledge.
+* Aimed to eliminate the label category gap on sources and target domains in Domain Adaptation (DA) tasks, called Universal DA by identifying outlier samples without the need for prior knowledge.
 
-* Conducted experiments with PyTorch and achieved improved performance on Office31, OfficeHome settings. (1~2% in accuracy, 8% in h-score) by utilizing a meta-learning method, intended to consider harder circumstances like long-tail distribution in real-world settings.
+* Conducted experiments with PyTorch and achieved improving performance on Office31, OfficeHome settings. (1~2% in accuracy, 8% in h-score) by utilizing a meta-learning method.
 
+* Demonstrated that identifying outlier samples through distributional distance measurement is beneficial. Detecting outlier is not enough, intended to consider harder circumstances like long-tail distribution in real-world settings.
 
 ## 4. Modular Networks for Domain Generalization |    Nov 2021-Jan 2022
 > Advisor: Mingsheng Long, Tsinghua University
 
-* To enhance the models’ performance in unseen domain, design a modularized structure in deep neural networks to selectively produce knowledge in a more flexible way.
 
-* Experimental results on OfficeHome and WILDS datasets show that the modularized design significantly boosts the performance in Domain Generalization tasks.
+* Considered enabling the model to have the ability to solve problems for any target domain (while DA algorithm aims to solve domain gap for a specific single target) with the access to an abundance of source domains, called Domain Generalization (DG)
 
+* Designed a novel mixture-of-experts modular structure with attention mechanism for models to merge domain-generic and domain-specific information selectively produce knowledge in a more flexible way.
+
+* Conducted experiments on OfficeHome and WILDS datasets for image classification task in unseen domain(DG tasks) showing that the modularized design significantly boosts the performance by 1%, while there are currently no DG approaches proved to be effective on the WILDS dataset.
 ## What's more... Other interesting things I did in course projects.:)
 
 ### 5. Scenic spot guide based on Unitree Robotics A1 |   July 2021
