@@ -9,6 +9,7 @@ redirect_from:
 ## Overall experiences:
 
 > 2021's Students Festival of Department of Automation
+
 * Served as a stage director in 2021.
 
 <center class="half">
@@ -44,14 +45,14 @@ redirect_from:
 
 ### 1. Research
 
-* Out-of-Dynamics Imitation Learning --- with Zhangjie, Jialong, Prof. Long.
+* Out-of-Dynamics Imitation Learning from Multi-modal demonstrations --- with Jialong, Zhangjie, Prof. Long.
 
-* Hybrid Dynamics-aware Offline-and-Online Reinforcement Learning --- with Haoyi, Prof. Zhan.
+* Hybrid Dynamics-aware Offline-and-Online Reinforcement Learning --- with Haoyi, Shubham, Prof. Zhan.
 
 
 ### 2. Person I met
 
-> I am grateful for getting a chance to participate in these.
+> Glad to work with these people.
 
 * Haoyi, Jianxiong, Zhe, ..., and Prof. Zhan
   <!-- They give me precious joyful moments in all the stress. I see passion and warmths, and I begin to believe that that's what scientific research can also be like. :) To gain some confidence in the fields we study, and feeling proud as well as humble for making a little contribution, no matter how little, but still as much as we could do within our capability. -->
@@ -121,7 +122,7 @@ It was a pity that none of these methods worked out. But the most important thin
   
 
 * At last, all of the extraordinary senior who had guided me: Zhangjie,  Shu,  Ximei, Junguang,  Haixu, Baixu, ...
-  Meeting these legendary people, was like a dream to me. Like finally meeting my idols (I don't have one though. hhhhhh)
+  Meeting them was like a dream to me.
 
 ### 3. Life Pieces.
 
