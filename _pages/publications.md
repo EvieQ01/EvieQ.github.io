@@ -14,8 +14,7 @@ author_profile: true
 
 
 <center>
-
- <img src="../_publications/figures/1_transferable_demonstrations.png" width="800"  />
+    <img src="../_publications/figures/1_transferable_demonstrations.jpeg" width="800"  />
 </center>
 
 ## 2. When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning. [arxiv](https://arxiv.org/abs/2206.13464v1)
@@ -30,6 +29,5 @@ action pairs with large dynamics gaps, while also simultaneously allowing learni
  from a fixed real-world dataset.
 
 <center>
-
- <img src="../_publications/figures/2_wheel_legged.png" width="800"  />
+    <img src="../_publications/figures/2_wheel_legged.jpeg" width="800"  />
 </center>
