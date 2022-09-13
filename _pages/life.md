@@ -40,7 +40,7 @@ redirect_from:
 
 <!-- > ## Intro… -->
 
-> * An important person came into my life.🥳
+<!-- > * An important person came into my life.🥳 -->
 <!-- > * Spending two days with Annie makes me understand myself more. Be relax and just be myself.🤩 -->
 
 ### 1. Research
@@ -61,13 +61,14 @@ redirect_from:
 
   <!-- Thanks to them to give me a chance to get to know compu-Bio. Gap between solving real-world problems and developing better algorithms is HUGE. Hope to dig deeper in the latter field, so that one day I would know how to deal with the first. It is about thinking more orinially about science. :) -->
 
+* Jialong
+
+  <!-- Maybe he is the person I spent most time with and who always urged me about the research and scolded me the most, who always chase high efficiency and quality. This is another way of life that I admire --- pure love for truth and stability /peace.  -->
+
 * Mr. Shang
 
   <!-- He is the one who has changed my mind into becoming a p.h.D. 🙌🏼 He provided me with wise suggestions and saved me from a mess. "Do things I have to do, for now." -->
 
-* Jialong
-
-  <!-- Maybe he is the person I spent most time with and who always urged me about the research and scolded me the most, who always chase high efficiency and quality. This is another way of life that I admire --- pure love for truth and stability /peace.  -->
 
 ### 3. Life Pieces.
 
@@ -76,7 +77,7 @@ redirect_from:
 * A glimpse of snow mountain, resulted from an impulse for chasing a beautiful feeling that I do not know will last for how long, but precious it. Give it a shot. 🤪
 
 
-> Things I want to say at the end:
+<!-- > Things I want to say at the end: -->
 > **Thinking about the present. Live at the present and don't care about the result.**
 
 ---
@@ -130,6 +131,6 @@ It was a pity that none of these methods worked out. But the most important thin
 * Launched Project P2P, as mysterious JQK, bring company to the young.
 * Met and made interviews with the experienced --- Xuehui Wang, Yu wang, ...
 
-> Things I want to say at the end:
+<!-- > Things I want to say at the end: -->
 > Ask myself, ***what do I want, and how do I get there?***
 

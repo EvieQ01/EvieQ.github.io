@@ -21,7 +21,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-<figure>
+<!-- <figure> -->
 <!-- <img src="../_publications/figures/seed10_example_No.29_baseline.gif" /><figcaption>Baseline
 <img src="../_publications/figures/seed10_example_No.29_id2.gif" />
 <figcaption>ID 
@@ -31,9 +31,10 @@ author_profile: true
 <figcaption>f-MDP -->
 <!-- <img src="../_publications/figures/seed10_example_No.29_ours.gif" />
 <figcaption>Ours -->
-<img src="../_publications/figures/1_transferable_demonstrations.png" />
+<!-- <img src="../_publications/figures/1_transferable_demonstrations.png" /> -->
 <!-- <figcaption>Illustrations for transferable demonstrations. -->
-</figure>
+<!-- </figure> -->
+![](../_publications/figures/1_transferable_demonstrations.png)
 
 
 
@@ -47,7 +48,7 @@ author_profile: true
  scheme, which adaptively penalizes the Q function learning on simulated state-
 action pairs with large dynamics gaps, while also simultaneously allowing learning
  from a fixed real-world dataset.
-<figure>
+<!-- <figure> -->
 <!-- <img src="../_publications/figures/seed10_example_No.29_baseline.gif" /><figcaption>Baseline
 <img src="../_publications/figures/seed10_example_No.29_id2.gif" />
 <figcaption>ID 
@@ -57,7 +58,8 @@ action pairs with large dynamics gaps, while also simultaneously allowing learni
 <figcaption>f-MDP -->
 <!-- <img src="../_publications/figures/seed10_example_No.29_ours.gif" />
 <figcaption>Ours -->
-<img src="../_publications/figures/2_wheel_legged.png" />
+<!-- <img src="../_publications/figures/2_wheel_legged.png" /> -->
 <!-- <figcaption>Illustrations for transferable demonstrations. -->
-</figure>
+
+![](../_publications/figures/2_wheel_legged.png)
 
