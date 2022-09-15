@@ -19,7 +19,7 @@ author_profile: true
 
 ## 2. When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning. [arxiv](https://arxiv.org/abs/2206.13464v1)
 
-  In submission to NeurIPS 2022.
+  Accepted by NeurIPS 2022.
 > Haoyi Niu, Shubham Sharma, **Yiwen Qiu**, Ming Li, Guyue Zhou, Jianming Hu, Xianyuan Zhan
 
 **Abstract**: Is it possible to combine learning from limited real data in offline RL and unrestricted exploration through imperfect simulators in online RL to address the drawbacks of both approaches? In this study, we propose the Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning (H2O) framework to provide an affirmative
