@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## 1. Out-of-Dynamics Imitation Learning from Multimodal Demonstrations
+## 1. Out-of-Dynamics Imitation Learning from Multimodal Demonstrations. [[OpenReview](https://openreview.net/forum?id=X6CjiTWVRVr)][[arxiv](https://arxiv.org/abs/2211.06839v1)]
 
   Accepted by CoRL 2022.
 
@@ -17,9 +17,9 @@ author_profile: true
     <img src="../images/1_transferable_demonstrations.jpeg" width="800"  />
 </center>
 
-## 2. When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning. [arxiv](https://arxiv.org/abs/2206.13464v1)
+## 2. When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning. [[arxiv](https://arxiv.org/abs/2206.13464v1)]
 
-  Accepted by NeurIPS 2022.
+  Accepted by NeurIPS 2022.[Spotlight]
 > Haoyi Niu, Shubham Sharma, **Yiwen Qiu**, Ming Li, Guyue Zhou, Jianming Hu, Xianyuan Zhan
 
 **Abstract**: Is it possible to combine learning from limited real data in offline RL and unrestricted exploration through imperfect simulators in online RL to address the drawbacks of both approaches? In this study, we propose the Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning (H2O) framework to provide an affirmative
