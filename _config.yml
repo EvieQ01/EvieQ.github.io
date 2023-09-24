@@ -83,11 +83,11 @@ author:
   name             : "Yiwen Qiu"
   avatar           : "bio-photo.jpeg"
   bio              : "I am a continuous learner in ML / Robotics."
-  location         : "Beijing, China"
+  location         : "Pittsburgh, Pennsylvania, United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : qywmei@gmail.com
+  googlescholar    : "https://scholar.google.com/citations?user=tumZYG0AAAAJ&hl=en"
+  email            : yiwenq@andrew.cmu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

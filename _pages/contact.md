@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Feel free to contact me:
 
-* **Email**: qywmei@gmail.com
-* **Phone**: (+86) 13521166552
+* **Email**: yiwenq@andrew.cmu.edu
+* **Phone**: (+1) 412-853-2758
 * **WeChat**: 13521166552
 * **Twitter**: evieq01
