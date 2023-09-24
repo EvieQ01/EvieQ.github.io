@@ -15,6 +15,7 @@ author_profile: true
 
 <center>
     <img src="../images/1_transferable_demonstrations.jpeg" width="800"  />
+    <figcaption>{{ includeresults on our [website](https://sites.google.com/view/oodil) }}</figcaption>
 </center>
 
 ## 2. When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning. [[arxiv](https://arxiv.org/abs/2206.13464v1)]
