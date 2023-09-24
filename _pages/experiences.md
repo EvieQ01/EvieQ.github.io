@@ -11,12 +11,12 @@ redirect_from:
 
 
 My research experiences are listed as follows.
-![image](<../images/1_transferable_demonstrations.jpeg){: style="float: left"}
-Project 1.
-<br>
 
+![image](../images/1_transferable_demonstrations.jpeg){: style="float: left"}
 ## 1. Out-of-Dynamics (OOD) Imitation Learning from Multimodal Demonstrations | March 2022 - Sep 2022
 > Advisor: Mingsheng Long, Tsinghua University
+<br>
+
 
 * Studied out-of-dynamics imitation learning (OOD-IL): the assumption in Imitation Learning(IL) is that the demonstrator who collects demonstrations share the same dynamics as the imitator limits the usage of IL. Aimed at enabling a wider usage of a mixture of mutimodal demonstrations in IL.
 
