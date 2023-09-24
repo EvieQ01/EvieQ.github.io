@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yiwen Qiu / Biography"
 title_separator          : "-"
-name                     : &name "Yiwen Qiu"
+name                     : &name "Yiwen (Evie) Qiu"
 description              : &description "personal description"
 url                      : https://evieq01.github.io/evieqiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiwen Qiu"
   avatar           : "bio-photo.jpeg"
-  bio              : "I am a continuous learner in ML / Robotics."
+  bio              : "A continuous learner :)"
   location         : "Pittsburgh, Pennsylvania, United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
