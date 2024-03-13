@@ -11,10 +11,7 @@ redirect_from:
 
 
 My research experiences are listed as follows.
-<!-- 
-![image](../images/1_transferable_demonstrations.jpeg)
 
-{: style="float: right"} -->
 ## 1. Out-of-Dynamics (OOD) Imitation Learning from Multimodal Demonstrations | March 2022 - Sep 2022
 > Advisor: Mingsheng Long, Tsinghua University
 <br>
