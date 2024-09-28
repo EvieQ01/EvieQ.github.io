@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Research Experiences"
+    url: /experiences/    
+
+            
+  - title: "CV"
+    url: /cv/
+
+  - title: Blog Posts
+    url: /posts/    
+    
+  - title: "Contact"
+    url: /contact/
