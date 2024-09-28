@@ -11,7 +11,7 @@ redirect_from:
 You can check my cv in the following link.
 
 <!-- ### [Download](../files/CV_YiwenQiu.pdf) -->
-### [Download](https://evieq01.github.io/evieqiu.github.io/files/CV_YiwenQiu.pdf)
+### [Download](https://github.com/EvieQ01/evieqiu.github.io/blob/qyw/files/CV_YiwenQiu.pdf)
 <!-- ### [Download](https://github.com/EvieQ01/evieqiu.github.io/raw/qyw/files/CV_YiwenQiu.pdf) -->
 
 Education
