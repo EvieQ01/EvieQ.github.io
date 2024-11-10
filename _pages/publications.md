@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### 1. Identifying Selections for Unsupervised Subtask Discovery. [[arxiv](https://arxiv.org/pdf/2410.21616v1)](NeurIPS 2024)
+### 1. Identifying Selections for Unsupervised Subtask Discovery. [[arxiv](https://arxiv.org/pdf/2410.21616v1)] (NeurIPS 2024)
 
 **Yiwen Qiu**, Yujia Zheng, Kun Zhang
 
